@@ -24,3 +24,6 @@ The JasperChart Project is a Spring Boot application designed to manage departme
 - Jakarta Validation
 - ModelMapper
 - JasperReports
+
+![image](https://github.com/user-attachments/assets/54cdd810-5230-438d-9ada-6fe88bca0230)
+
